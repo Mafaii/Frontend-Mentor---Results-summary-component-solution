@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Mafaii/Frontend-Mentor---Results-summary-component-solution
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -58,15 +58,7 @@ Users should be able to:
 - that i cant see colors....
 - without figma its kinda hard to get correct values/colors
 - margin is quite useful
-- 
 
 
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
